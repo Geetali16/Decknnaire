@@ -1,2 +1,2 @@
 # Decknnaire
-Decknnaire is a card game.
+It is a card game.
